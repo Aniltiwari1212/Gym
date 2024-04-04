@@ -1,0 +1,365 @@
+.header_sec .navbar-nav{
+padding: 10px;
+font-size: 18px;
+text-align: right;
+margin: auto;
+}
+.header_sec .search_icon{
+    text-align: right;
+}
+.header_sec .navbar-nav .nav-link{
+    padding-right: 40px;
+}
+.search_icon{
+    font-size: 18px;
+}
+.search_icon i {
+margin-right: 15px;
+}
+.carousel-item .carousel-caption{
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+    padding-top: 20%;
+}
+.carousel-item .carousel-caption h5{
+    font-size: 48px;
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.carousel-item .carousel-caption p{
+    width: 50%;
+    color: white;
+    font-weight: 500;
+    margin: auto;
+}
+.btn{
+    background-color:#fb5b21;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: aliceblue;
+    padding: 12px 25px;
+    border-radius: 70px;
+    margin-top: 50px;
+}
+.about_fitness .about_img{
+    background-color: #fb5b21;
+    position: relative;
+    width: 100%;
+    padding: 100px 0px;
+}
+.about_fitness .container-fluid{
+    background-color: #F5F5F5;
+    padding: 0;
+}
+.about_fitness .overlay{
+    position: absolute;
+    top: 30%;
+    right: 6%;
+}
+.about_fitness .overlay h3{
+color:white;
+font-size: 65px;
+font-weight: 700;
+text-transform: uppercase;
+line-height: 70px;
+max-width: 300px;
+}
+.fitness_features{
+    padding: 80px;
+}
+.fitness_icon{
+    display: flex;
+    margin-top: 30px;
+}
+.fitness_features .fitness_icon img{
+width: 70px;
+height: 120px;
+margin-right: 30px;
+}
+.features{
+    padding: 20px 0px;
+    background-color: #F5F5F5;
+}
+.fea_txt{
+    padding: 100px;
+}
+.features .fea_txt h1{
+    font-size: 98px;
+    font-weight: 900;
+    letter-spacing: 10px;
+}
+.features .fea_txt span{
+    font-size: 78px;
+    font-weight: 400;
+    letter-spacing: 40px;
+}
+.class_schedule{
+    background-color: #fb5b21;
+    padding: 60px 50px;
+}
+.schedule_sec ul{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+}
+.schedule_sec ul li {
+    list-style: none;
+    color: black;
+}
+.schedule_sec ul li a {
+    color: black;
+    font-size: 22px;
+    text-decoration: none;
+    background-color: #F5F5F5;
+    margin-right: 30px;
+    padding: 12px 25px;
+    border-radius: 25px;
+    margin-bottom: 40px;
+}
+.schedule_content{
+    margin-top: 80px;
+    text-align: center;
+    justify-content: center;
+}
+.schedule_content  ul{
+    background-color: #F5F5F5;
+    color: black;
+    margin-top: 5px;
+    padding: 15px 0px 15px 10px;
+}
+.schedule_content ul li {
+    text-align: center;
+    justify-content: center;
+    font-size: 20px;
+    color: black;
+    display: inline-block;
+    width: 20%;
+}
+.schedule_content ul li a{
+    background-color: black;
+    color: white;
+}
+.testimonial{
+    background-color:white;
+    padding: 70px 0px;
+}
+.testimonial h1{
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 42px;
+    font-weight: 800;
+    letter-spacing: 5px;
+}
+.nav-pills .nav-link{
+    background-color: #F5F5F5;
+    font-size: 22px;
+    color: black;
+    padding: 12px 25px;
+    margin-right: 15px;
+}
+  .contain {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+  }
+.featureCls_sec{
+    padding: 60px 0px;
+    position: relative;
+}
+.owlCarousel{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.exprt_trainers{
+    background-color: #d1d1d1;
+    padding: 70px 0px;
+}
+.trainers_img img{
+    border-radius: 40px;
+    background-color: white;
+}
+.trainer_sec{
+    position: relative;
+}
+.trainers_txt{
+    background-color: orangered;
+    position: absolute;
+    border-radius: 30px;
+    color: white;
+    left: 0;
+    right: 25px;
+    padding: 8px 25px;
+    width: 250px;
+    margin: 0 auto;
+    bottom: -40px;
+    text-align: center;
+}
+.trainers_txt h2{
+    font-size: 18px;
+}
+.trainers_txt  h5{
+    font-size: 12px;
+}
+.gallary{
+    padding: 70px 0px;
+}
+.gallary h1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 48px;
+    margin-bottom: 40px;
+}
+.all-gall img{
+    width: 400px;
+    height: 300px;
+    margin-bottom: 30px;
+}
+.fitness_class{
+    text-align: center;
+    padding: 60px 0px;
+    background: url(../img/fitness-summer-bag.jpg);
+    color: white;
+}
+
+.fitness_class span{
+    font-size: 48px;
+    font-weight: 900;
+}
+.fitness_class h2{
+    font-size: 42px;
+    font-weight: 600;
+}
+.fitness_class h2 span{
+    font-size: 42px;
+    font-weight: 800;
+    color: red;
+    margin-bottom: 40px;
+}
+.online_store{
+    padding: 70px 0px;
+}
+.online_store h1{
+   font-size: 48px;
+   font-weight: 800;
+   text-transform: uppercase;
+   text-align: center;
+   margin-bottom: 30px;
+}
+.online_store .owl-carousel .owl-item img{
+width: 200px;
+height: auto;
+}
+.latest_news{
+    padding: 70px 0px;
+}
+.latest_news h1{
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.owl-item .item h3{
+    margin-top: 20px;
+    font-size: 22px;
+}
+.logo_showcase h1{
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.logo_showcase .owl-carousel .owl-item img{
+    width: 200px;
+    height: auto;
+}
+.pricing{
+    background-color: black;
+    padding: 70px 0px;
+}
+.pricing h1{
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    text-align: center;
+    color: white;
+}
+.pricing .pricing_txt{
+    color:black;
+    background-color: white;
+    padding: 50px ;
+    height: 500px;
+    margin-top: auto;
+    text-align: center;
+}
+.pricing .pricing_txt h3{
+text-transform: uppercase;
+letter-spacing: 5px;
+}
+.pricing .pricing_txt h2{
+    font-size: 48px;
+    font-weight: 800;
+    color: #fb5b21;
+    margin-bottom: 30px;
+}
+.pricing_txt h2::after{
+    content:"/month";
+    font-size: 16px;
+    color: black;
+}
+.pricing .pricing_txt ul{
+    list-style: none;
+    text-align: center;
+}
+.pricing .pricing_txt ul li{
+  font-size: 20px;
+  margin-bottom: 8px;
+  text-align: center;
+}
+.pricing .pricing_txt:hover{
+    transform:translateY(-25px);
+    transition: all ease-out .3s;
+}
+.foot_sec{
+    padding: 60px 0px;
+    background-color: black;
+    color: white;
+}
+.foot_sec .s_icons i{
+background-color:#fb5b21;
+color: white;
+font-size: 16px;
+padding: 10px;
+border-radius: 100%;
+margin-right: 10px;
+text-align: center;
+justify-content:center;
+}
+.about_company .twitter p::before{
+    content: "<i class="fa fa-twitter" aria-hidden="true"></i>"
+}
+.flickr_list ul{
+list-style: none;
+margin: 0;
+    padding: 0;
+}
+.flickr_list ul li{
+    display:inline-block;
+    flex-wrap: wrap;
+}
+.adrs ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.adrs ul li::before{
+content: "<i class="fa fa-map-marker" aria-hidden="true"></i>";
+color: white;
+}
+
