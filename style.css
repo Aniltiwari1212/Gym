@@ -221,7 +221,7 @@ margin-right: 30px;
 .fitness_class{
     text-align: center;
     padding: 60px 0px;
-    background: url(../img/fitness-summer-bag.jpg);
+    background: url(fitness-summer-bag.jpg);
     color: white;
 }
 
@@ -362,4 +362,3 @@ margin: 0;
 content: "<i class="fa fa-map-marker" aria-hidden="true"></i>";
 color: white;
 }
-
